@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages Blog WP
+## Blog WP
+
+- [Login-do-WordPress](https://github.com/cafecomacris/blog-wp/blob/main/Login-do-WordPress)
+
+- [alterando-url-wp](https://github.com/cafecomacris/blog-wp/blob/main/alterando-url-wp)
+
+- [desativar-admin](https://github.com/cafecomacris/blog-wp/blob/main/desativar-admin)
+
+- [limitar-palavras](https://github.com/cafecomacris/blog-wp/blob/main/limitar-palavras)
+
+- [paginacao-sem-plugin](https://github.com/cafecomacris/blog-wp/blob/main/paginacao-sem-plugin)
+
+- [editor on GitHub](https://github.com/cafecomacris/blog-wp/edit/gh-pages/index.md)
+- [editor on GitHub](https://github.com/cafecomacris/blog-wp/edit/gh-pages/index.md)
+- [editor on GitHub](https://github.com/cafecomacris/blog-wp/edit/gh-pages/index.md)
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/cafecomacris/blog-wp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
