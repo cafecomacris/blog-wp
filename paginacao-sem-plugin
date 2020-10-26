@@ -1,5 +1,6 @@
 ## paginate_links
 
+```markdown
 /**
  *
  * Paginação utilizando a função paginate_links
