@@ -1,6 +1,6 @@
 ## Trocar o login do WordPress
 
-´´´ add_action( 'login_enqueue_scripts', 'login_logo' );
+ add_action( 'login_enqueue_scripts', 'login_logo' );
 function login_logo() {
     ?>
 
